@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          You are see the page from development branch
+          You are seeing the page from development branch
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
