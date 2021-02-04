@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Page from PPC Branch
+          Page from PPC Branch. Now it has changed.. 
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
