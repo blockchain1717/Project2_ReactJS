@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Page from PPC Branch. Now it has changed.. 
+          Page from PPC Branch. Now it has changed.. In front for AWS Team
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
